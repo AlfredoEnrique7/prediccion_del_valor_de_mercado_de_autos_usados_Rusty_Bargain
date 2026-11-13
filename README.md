@@ -1,10 +1,5 @@
 # Predicción del Valor de Mercado de Autos Usados — Rusty Bargain
 
-![Python](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![LightGBM](https://shields.io)
-![Status](https://shields.io)
-
 ## Descripción del Proyecto
 
 El servicio de venta de autos usados **Rusty Bargain** está desarrollando una aplicación móvil y web para permitir a sus clientes conocer de forma rápida y confiable el valor de mercado de su vehículo. 
